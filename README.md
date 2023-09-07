@@ -6,5 +6,5 @@ int main()
 {
 std::cout << "hello world!" << std::endl;
 }
-/* c++ is fun. Python is  fun too.*/
+/* c++ is fun. Python is  fun too. Git is good.*/
 ```
